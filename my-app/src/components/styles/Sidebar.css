@@ -1,0 +1,30 @@
+.sidebar{
+    position:fixed;
+    height:100%;
+    width:20rem;
+    z-index: 1;
+    top:0;
+    right:0;
+    transition:0.5s;
+    background-color:whitesmoke;
+}
+
+.sidebar-main{
+    display: flex;
+    height:100%;
+    flex-direction: column;
+    align-items: center;
+    margin:1rem;
+}
+#event{
+    margin:1rem;
+}
+
+
+#create-button,#update_event{
+    width:230px;
+}
+
+#delete_event{
+    margin:9px;
+}
