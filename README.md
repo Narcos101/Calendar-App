@@ -62,11 +62,8 @@ Registration:<br>
 Login:<br>
 ![alt text](https://github.com/Narcos101/Calendar-app/blob/main/images/login.png)
 
-Viewing montly schedule:<br>
-![alt text](https://github.com/Narcos101/Calendar-app/blob/main/images/view_monthly.png)
+Viewing monthly and daily schedule:<br>
+![alt text](https://github.com/Narcos101/Calendar-app/blob/main/images/Dashboard.png)
 
-Viewing daily schedule:<br>
-![alt text](https://github.com/Narcos101/Calendar-app/blob/main/images/view_daily.png)
-
-Viewing an event:<br>
-![alt text](https://github.com/Narcos101/Calendar-app/blob/main/images/view_event.png)
+Viewing and updating event:<br>
+![alt text](https://github.com/Narcos101/Calendar-app/blob/main/images/Update.png)
