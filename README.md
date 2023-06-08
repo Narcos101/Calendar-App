@@ -73,4 +73,4 @@ In Terminal 2,
 
 ## ## LICENSE 📜
 
-[MIT](https://github.com/HarshCasper/HelpingHand/blob/master/LICENSE)
+[MIT](https://github.com/Narcos101/Calendar-App/blob/main/LICENSE)
